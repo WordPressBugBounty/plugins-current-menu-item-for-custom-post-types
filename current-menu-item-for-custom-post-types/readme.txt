@@ -2,7 +2,7 @@
 Contributors: murgroland
 Tags: current menu item, menu active, custom post types menu active, highlight menu, single post, active menu for custom post types, archive active menu, active menu
 Requires at least: 3.0
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.6.0
 
 Allows you to highlight the current menu item by assigning a page to a custom post type.
